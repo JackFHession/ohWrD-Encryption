@@ -12,12 +12,12 @@
 
 <h2> Usage (encryption) </h2>
 
-**1.** Create a folder and throw in whatever you wish to encrypt.
-**2.** Zip the folder and make sure that there is no .ohwrd file present.
-**3.** Run the program, it asks for a password to use as ASCII key values.
-**4.** It will save your scrambled/encrypted zip file as "gallifrey.ohwrd" - keep this file.
-**5.** Delete the original zip file.
-
+**1.** Create a folder and throw in whatever you wish to encrypt.\n
+**2.** Zip the folder and make sure that there is no .ohwrd file present.\n
+**3.** Run the program, it asks for a password to use as ASCII key values.\n
+**4.** It will save your scrambled/encrypted zip file as "gallifrey.ohwrd" - keep this file.\n
+**5.** Delete the original zip file.\n
+\n
 <h2> Usage (decryption) </h2>
 
 Do you wonder why I named it the Dr Who encryption in reverse, or why it saves your encrypted zip as Gallifrey.ohwrd (.drwho backwards)?
@@ -26,7 +26,7 @@ That's because the file will continue to transform into a zip file, even if your
 
 Sorry, lol.
 
-**1.** Make sure your Gallifrey.ohwrd file is in the same directory as run.py, and that there's no zip files present.
-**2.** Enter your password, same interface.
-**3.** It'll use the ASCII values of your entered password to unscramble the zip file, if correct then the zip file will be fully restored - if incorrect, it'll create an awfully corrupted binary file in a zip shell.
-**4.** If password is correct, your zip file is fully restored, just delete the Gallifrey.ohwrd if you want.
+**1.** Make sure your Gallifrey.ohwrd file is in the same directory as run.py, and that there's no zip files present.\n
+**2.** Enter your password, same interface.\n
+**3.** It'll use the ASCII values of your entered password to unscramble the zip file, if correct then the zip file will be fully restored - if incorrect, it'll create an awfully corrupted binary file in a zip shell.\n
+**4.** If password is correct, your zip file is fully restored, just delete the Gallifrey.ohwrd if you want.\n
